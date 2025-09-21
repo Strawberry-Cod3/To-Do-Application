@@ -1,4 +1,3 @@
-﻿# To-Do-Application
 # Python GUI To-Do List
 
 A **Python GUI To-Do List application** with a sleek dark theme, persistent storage, and color-coded tasks. This app lets you manage tasks easily with a simple, clean interface.
@@ -33,3 +32,4 @@ Main Window:
 
 ```bash
 git clone https://github.com/Strawberry-Cod3/ToDo-App.git
+
